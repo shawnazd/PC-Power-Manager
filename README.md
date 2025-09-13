@@ -1,9 +1,9 @@
 
-# ⚡ PowerManager
+# ⚡PC PowerManager
 
 A modern, ultra-cool system power utility built in Python with a GUI.  
 Supports **Shutdown, Restart, Sleep, Hibernate**, and **Custom Timed Shutdowns**.  
-
+![Main Window](screenshots/main_window.jpg)
 ---
 
 ## 📂 Repository Structure
