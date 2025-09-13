@@ -1,6 +1,4 @@
-Perfect! Here’s a **full professional README.md template** for your **PowerManager** project. You can copy it as-is and tweak details if you want:
 
----
 
 ```markdown
 # ⚡ PowerManager
