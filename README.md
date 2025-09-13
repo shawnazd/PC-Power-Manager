@@ -1,6 +1,4 @@
 
-
-```markdown
 # ⚡ PowerManager
 
 A modern, ultra-cool system power utility built in Python with a GUI.  
@@ -12,7 +10,7 @@ Supports **Shutdown, Restart, Sleep, Hibernate**, and **Custom Timed Shutdowns**
 
 ```
 
-PowerManager/
+PC-Power-Manager/
 ├── README.md                <- This file
 ├── source/                  <- Source code folder
 │   ├── power\_manager.py     <- Main Python script
@@ -20,7 +18,6 @@ PowerManager/
 │   └── requirements.txt     <- Python dependencies
 └── releases/                <- EXE releases
 └── v1.0/
-└── power\_manager.exe
 
 ````
 
