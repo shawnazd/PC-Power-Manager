@@ -39,8 +39,9 @@ PC-Power-Manager/
 
 | Version | File Name | Download |
 |---------|-----------|---------|
-| v1.0    | `power_manager.exe`       | [💾 Download](releases/v1.0/power_manager.exe) |
-| v2.0    | `power_manager_v2.exe`    | [💾 Download](releases/v2.0/power_manager_v2.exe) |
+| v1.0    | `power_manager.exe`       | [💾 Download v1.0](https://github.com/shawnazd/PC-Power-Manager/releases/download/v1.0/power_manager_v1.0.exe)
+ |
+
 
 > 💡 No Python installation is required to run the EXE.
 
