@@ -1,6 +1,4 @@
-Absolutely! Here's a **polished, professional, and GitHub-ready version** of your README.md, including the screenshot section and clean formatting:
 
----
 
 ```markdown
 # ⚡ PC PowerManager
@@ -127,20 +125,12 @@ Specify your license here (e.g., MIT License).
 
 ## 🚀 Badges
 
-```markdown
+
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Release](https://img.shields.io/badge/Release-v1.0-green)
 ```
 
-```
 
----
-
-This version is:  
-- **Professional & clean**  
-- **Includes screenshot section**  
-- **Explains both source and EXE usage**  
-- Ready for **badges** if you want to make it visually appealing  
 
 ---
 
