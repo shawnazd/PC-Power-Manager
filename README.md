@@ -71,7 +71,6 @@ We welcome contributions!
 ## 📄 License
 
 This project is licensed under the **MIT License**.  
-See the full license [here](LICENSE).
 
 <p align="center">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.13-blue" alt="Python"></a> &nbsp;&nbsp;&nbsp;
