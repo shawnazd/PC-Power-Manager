@@ -1,10 +1,6 @@
 
 # ⚡ PC Power Manager
 
-[![Python](https://img.shields.io/badge/Python-3.13-blue)](https://www.python.org/)  
-[![Release](https://img.shields.io/badge/Release-v2.0-green)](releases/v2.0/power_manager_v2.exe)  
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
-
 A modern, sleek system power utility built in Python with a GUI.  
 Supports **Shutdown, Restart, Sleep, Hibernate**, and **Custom Timed Shutdowns**.
 
@@ -72,10 +68,11 @@ We welcome contributions!
 - Submit pull requests to improve the GUI, add features, or fix issues  
 
 ---
-
 ## 📄 License
 
 This project is licensed under the **MIT License**.  
-[View License](LICENSE)
-```
+See the full license [here](LICENSE).
 
+[![Python](https://img.shields.io/badge/Python-3.13-blue)](https://www.python.org/)  
+[![Release](https://img.shields.io/badge/Release-v2.0-green)](releases/v2.0/power_manager_v2.exe)  
+[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
