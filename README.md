@@ -129,12 +129,3 @@ Specify your license here (e.g., MIT License).
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Release](https://img.shields.io/badge/Release-v1.0-green)
 ```
-
-
-
----
-
-If you want, I can **also suggest a full badge setup and add a “Download EXE” link** in the README for users to easily get the latest version.  
-
-Do you want me to do that?
-```
