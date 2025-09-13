@@ -73,6 +73,9 @@ We welcome contributions!
 This project is licensed under the **MIT License**.  
 See the full license [here](LICENSE).
 
-[![Python](https://img.shields.io/badge/Python-3.13-blue)](https://www.python.org/)  
-[![Release](https://img.shields.io/badge/Release-v2.0-green)](releases/v2.0/power_manager_v2.exe)  
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.13-blue" alt="Python"></a> &nbsp;&nbsp;&nbsp;
+  <a href="releases/v2.0/power_manager_v2.exe"><img src="https://img.shields.io/badge/Release-v2.0-green" alt="Release"></a> &nbsp;&nbsp;&nbsp;
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow" alt="License"></a>
+</p>
+
