@@ -50,7 +50,6 @@ PC-Power-Manager/
 ## 📸 Screenshots
 
 ![Main Window](screenshots/main_window_v2.0.jpg)  
-*(Add more screenshots if needed)*
 
 ---
 
