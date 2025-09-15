@@ -1,0 +1,12 @@
+# ⚡ PC PowerManager - Python Project Dependencies
+
+# CustomTkinter: Modern Tkinter GUI library
+customtkinter>=6.3.2
+
+# Python version requirement
+python>=3.10
+
+# Notes:
+# - Standard libraries used: subprocess, threading, time, platform, tkinter
+#   (These come pre-installed with Python, no need to install separately)
+# - Install dependencies with: pip install -r requirements.txt
