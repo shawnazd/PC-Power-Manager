@@ -39,7 +39,7 @@ PC-Power-Manager/
 
 | Version | File Name | Download |
 |---------|-----------|---------|
-| v1.0    | `power_manager.exe`       | [💾 Download v1.0](https://github.com/shawnazd/PC-Power-Manager/releases/download/v1.0/power_manager_v2.0.exe)
+| v2.0    | `power_manager_v2.0.exe`       | [💾 Download v1.0](https://github.com/shawnazd/PC-Power-Manager/releases/download/v1.0/power_manager_v2.0.exe)
  |
 
 
